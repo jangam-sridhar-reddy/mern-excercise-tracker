@@ -2,6 +2,13 @@
 
 # dependencies
 /node_modules
+/backend/node_modules
+/backend/.env
+/backend/.env.local
+/backend/.env.development.local
+/backend/.env.test.local
+/backend/.env.production.local
+/.eslintcache
 /.pnp
 .pnp.js
 
